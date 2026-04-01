@@ -1,0 +1,24 @@
+# Credentials and sensitive files
+credentials.json
+*credentials*
+.env
+.env.local
+*.key
+*.pem
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Database files (optional - remove if you want to track them)
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
