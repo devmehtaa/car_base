@@ -1,0 +1,5888 @@
+{
+    "2021-Ford-Mustang-Mach-E-QRG-V2.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Mustang-Mach-E-QRG-V2",
+            "engine": null,
+            "displayName": "2021 Ford Mustang-Mach-E-QRG-V2"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2019-Ford-Ranger-QRG.pdf": {
+        "Vehicle": {
+            "year": 2019,
+            "make": "Ford",
+            "model": "Ranger-QRG",
+            "engine": null,
+            "displayName": "2019 Ford Ranger-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Mustang-Mach-E-QRG-V3.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Mustang-Mach-E-QRG-V3",
+            "engine": null,
+            "displayName": "2021 Ford Mustang-Mach-E-QRG-V3"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Mustang-QRG-V1.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Mustang-QRG-V1",
+            "engine": null,
+            "displayName": "2021 Ford Mustang-QRG-V1"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Mustang-QRG-V2.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Mustang-QRG-V2",
+            "engine": null,
+            "displayName": "2021 Ford Mustang-QRG-V2"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Mustang-Mach-E-QRG.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Mustang-Mach-E-QRG",
+            "engine": null,
+            "displayName": "2021 Ford Mustang-Mach-E-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Bronco-Sport-QRG.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Bronco-Sport-QRG",
+            "engine": null,
+            "displayName": "2021 Ford Bronco-Sport-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Bronco-Sport-QRG-V2.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Bronco-Sport-QRG-V2",
+            "engine": null,
+            "displayName": "2021 Ford Bronco-Sport-QRG-V2"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Escape-QRG.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Escape-QRG",
+            "engine": null,
+            "displayName": "2021 Ford Escape-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Edge-QRG.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Edge-QRG",
+            "engine": null,
+            "displayName": "2021 Ford Edge-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2019-Ford-Escape-QRG.pdf": {
+        "Vehicle": {
+            "year": 2019,
+            "make": "Ford",
+            "model": "Escape-QRG",
+            "engine": null,
+            "displayName": "2019 Ford Escape-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2022-Ford-Maverick-QRG.pdf": {
+        "Vehicle": {
+            "year": 2022,
+            "make": "Ford",
+            "model": "Maverick-QRG",
+            "engine": null,
+            "displayName": "2022 Ford Maverick-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2019-Ford-Flex.pdf": {
+        "Vehicle": {
+            "year": 2019,
+            "make": "Ford",
+            "model": "Flex",
+            "engine": "3.5L",
+            "displayName": "2019 Ford Flex"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.7,
+                "liters": 3.5
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2021-Ford-Edge-Supplemental-Owners-Guide.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Edge-Supplemental-Owners-Guide",
+            "engine": "2.0L",
+            "displayName": "2021 Ford Edge-Supplemental-Owners-Guide"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Mustang-Mach-E.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Mustang-Mach-E",
+            "engine": null,
+            "displayName": "2021 Ford Mustang-Mach-E"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Escape.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Escape",
+            "engine": "1.5L",
+            "displayName": "2021 Ford Escape"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 5.3,
+                "liters": 5.01
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2019-Ford-Fiesta.pdf": {
+        "Vehicle": {
+            "year": 2019,
+            "make": "Ford",
+            "model": "Fiesta",
+            "engine": "1.6L",
+            "displayName": "2019 Ford Fiesta"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.3,
+                "liters": 4.07
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Edge.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Edge",
+            "engine": "2.0L",
+            "displayName": "2021 Ford Edge"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2018-Ford-Focus.pdf": {
+        "Vehicle": {
+            "year": 2018,
+            "make": "Ford",
+            "model": "Focus",
+            "engine": "1.0L",
+            "displayName": "2018 Ford Focus"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2019-Ford-Fiesta-QRG.pdf": {
+        "Vehicle": {
+            "year": 2019,
+            "make": "Ford",
+            "model": "Fiesta-QRG",
+            "engine": null,
+            "displayName": "2019 Ford Fiesta-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-GT.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "GT",
+            "engine": "3.5L",
+            "displayName": "2021 Ford GT"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2018-Ford-Focus-QRG.pdf": {
+        "Vehicle": {
+            "year": 2018,
+            "make": "Ford",
+            "model": "Focus-QRG",
+            "engine": null,
+            "displayName": "2018 Ford Focus-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Edge-QRG-V2.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Edge-QRG-V2",
+            "engine": null,
+            "displayName": "2021 Ford Edge-QRG-V2"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2021-Ford-Bronco-Sport.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Bronco-Sport",
+            "engine": "1.5L",
+            "displayName": "2021 Ford Bronco-Sport"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2021-Ford-Bronco-Sport-OM-V2.pdf": {
+        "Vehicle": {
+            "year": 2021,
+            "make": "Ford",
+            "model": "Bronco-Sport-V2",
+            "engine": "2.0L",
+            "displayName": "2021 Ford Bronco-Sport-V2"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 5.3,
+                "liters": 5.01
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2019-Ford-Taurus.pdf": {
+        "Vehicle": {
+            "year": 2019,
+            "make": "Ford",
+            "model": "Taurus",
+            "engine": "3.5L",
+            "displayName": "2019 Ford Taurus"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.7,
+                "liters": 3.5
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2019-Ford-Escape.pdf": {
+        "Vehicle": {
+            "year": 2019,
+            "make": "Ford",
+            "model": "Escape",
+            "engine": "1.5L",
+            "displayName": "2019 Ford Escape"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2018-Ford-Ecosport.pdf": {
+        "Vehicle": {
+            "year": 2018,
+            "make": "Ford",
+            "model": "Ecosport",
+            "engine": "2.0L",
+            "displayName": "2018 Ford Ecosport"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2019-Ford-Taurus-QRG.pdf": {
+        "Vehicle": {
+            "year": 2019,
+            "make": "Ford",
+            "model": "Taurus-QRG",
+            "engine": null,
+            "displayName": "2019 Ford Taurus-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2005-Ford-GT.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Ford",
+            "model": "GT",
+            "engine": "6.0L",
+            "displayName": "2005 Ford GT"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 5.71,
+                "liters": 5.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-50",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2019-Ford-Ranger.pdf": {
+        "Vehicle": {
+            "year": 2019,
+            "make": "Ford",
+            "model": "Ranger",
+            "engine": "2.3L",
+            "displayName": "2019 Ford Ranger"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.2,
+                "liters": 5.87
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2007-Ford-F150.pdf": {
+        "Vehicle": {
+            "year": 2007,
+            "make": "Ford",
+            "model": "F150",
+            "engine": "4.2L",
+            "displayName": "2007 Ford F150"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.44,
+                "liters": 4.2
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2018-Ford-GT.pdf": {
+        "Vehicle": {
+            "year": 2018,
+            "make": "Ford",
+            "model": "GT",
+            "engine": "3.5L",
+            "displayName": "2018 Ford GT"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-50",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Ford-GT.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Ford",
+            "model": "GT",
+            "engine": "3.5L",
+            "displayName": "2017 Ford GT"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-50",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2015-Ford-Edge.pdf": {
+        "Vehicle": {
+            "year": 2015,
+            "make": "Ford",
+            "model": "Edge",
+            "engine": "2.0L",
+            "displayName": "2015 Ford Edge"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Ford-Fusion-QRG.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Ford",
+            "model": "Fusion-QRG",
+            "engine": null,
+            "displayName": "2017 Ford Fusion-QRG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2017-Ford-Fusion.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Ford",
+            "model": "Fusion",
+            "engine": "1.5L",
+            "displayName": "2017 Ford Fusion"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Escort-OM.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Escort",
+            "engine": "2.0L",
+            "displayName": "2000 Ford Escort"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Taurus-OM.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Taurus",
+            "engine": "3.0L",
+            "displayName": "2000 Ford Taurus"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.17,
+                "liters": 3.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2001-Ford-Focus.pdf": {
+        "Vehicle": {
+            "year": 2001,
+            "make": "Ford",
+            "model": "Focus",
+            "engine": "2.0L",
+            "displayName": "2001 Ford Focus"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Ford-Escape.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Ford",
+            "model": "Escape",
+            "engine": "6.0L",
+            "displayName": "2005 Ford Escape"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.43,
+                "liters": 2.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2001-Ford-Explorer-Sport.pdf": {
+        "Vehicle": {
+            "year": 2001,
+            "make": "Ford",
+            "model": "Explorer-Sport",
+            "engine": "7.3L",
+            "displayName": "2001 Ford Explorer-Sport"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.23,
+                "liters": 4.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Explorer-OM.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Explorer",
+            "engine": "5.0L",
+            "displayName": "2000 Ford Explorer"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.23,
+                "liters": 4.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Crown-Victoria-OM-V1.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Crown-Victoria-V1",
+            "engine": "4.6L",
+            "displayName": "2000 Ford Crown-Victoria-V1"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.86,
+                "liters": 4.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2001-Ford-Crown-Victoria.pdf": {
+        "Vehicle": {
+            "year": 2001,
+            "make": "Ford",
+            "model": "Crown-Victoria",
+            "engine": "7.3L",
+            "displayName": "2001 Ford Crown-Victoria"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.86,
+                "liters": 4.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2001-Ford-Windstar.pdf": {
+        "Vehicle": {
+            "year": 2001,
+            "make": "Ford",
+            "model": "Windstar",
+            "engine": "7.3L",
+            "displayName": "2001 Ford Windstar"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.02,
+                "liters": 3.8
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Crown-Victoria-OM-V2.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Crown-Victoria-V2",
+            "engine": "4.6L",
+            "displayName": "2000 Ford Crown-Victoria-V2"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.86,
+                "liters": 4.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2001-Ford-F-53-Motorhome-Chassis.pdf": {
+        "Vehicle": {
+            "year": 2001,
+            "make": "Ford",
+            "model": "F-53-Motorhome-Chassis",
+            "engine": "6.8L",
+            "displayName": "2001 Ford F-53-Motorhome-Chassis"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 7.19,
+                "liters": 6.8
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Contour-OM.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Contour",
+            "engine": "2.0L",
+            "displayName": "2000 Ford Contour"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2001-Ford-Escape.pdf": {
+        "Vehicle": {
+            "year": 2001,
+            "make": "Ford",
+            "model": "Escape",
+            "engine": "7.3L",
+            "displayName": "2001 Ford Escape"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2001-Ford-F-250.pdf": {
+        "Vehicle": {
+            "year": 2001,
+            "make": "Ford",
+            "model": "F-250",
+            "engine": "7.3L",
+            "displayName": "2001 Ford F-250"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 5.71,
+                "liters": 5.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Focus-OM.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Focus",
+            "engine": "2.0L",
+            "displayName": "2000 Ford Focus"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2001-Ford-F650-750.pdf": {
+        "Vehicle": {
+            "year": 2001,
+            "make": "Ford",
+            "model": "F650-750",
+            "engine": "7.3L",
+            "displayName": "2001 Ford F650-750"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 7.72,
+                "liters": 7.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2001-Ford-Explorer-Sport-Trac.pdf": {
+        "Vehicle": {
+            "year": 2001,
+            "make": "Ford",
+            "model": "Explorer-Sport-Trac",
+            "engine": "7.3L",
+            "displayName": "2001 Ford Explorer-Sport-Trac"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.23,
+                "liters": 4.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Mustang.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Mustang",
+            "engine": "4.6L",
+            "displayName": "2000 Ford Mustang"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.02,
+                "liters": 3.8
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Expedition-OM.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Expedition",
+            "engine": "4.6L",
+            "displayName": "2000 Ford Expedition"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.86,
+                "liters": 4.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Postal-Explorer-OM.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Postal-Explorer",
+            "engine": "4.0L",
+            "displayName": "2000 Ford Postal-Explorer"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.23,
+                "liters": 4.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-E-Series-OM.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "E-Series",
+            "engine": "7.3L",
+            "displayName": "2000 Ford E-Series"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.44,
+                "liters": 4.2
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2000-Ford-Ranger-OM.pdf": {
+        "Vehicle": {
+            "year": 2000,
+            "make": "Ford",
+            "model": "Ranger",
+            "engine": "2.5L",
+            "displayName": "2000 Ford Ranger"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.64,
+                "liters": 2.5
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Malibu-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Malibu",
+            "engine": "2.5L",
+            "displayName": "2014 Chevrolet Malibu"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Tahoe-Suburban-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Tahoe-Suburban",
+            "engine": "6.0L",
+            "displayName": "2014 Chevrolet Tahoe-Suburban"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Impala-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Impala",
+            "engine": "2.5L",
+            "displayName": "2014 Chevrolet Impala"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.64,
+                "liters": 2.5
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-SS-Sedan-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "SS-Sedan",
+            "engine": "3.8L",
+            "displayName": "2014 Chevrolet SS-Sedan"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Volt-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Volt",
+            "engine": "3.8L",
+            "displayName": "2014 Chevrolet Volt"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Equinox-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Equinox",
+            "engine": "2.4L",
+            "displayName": "2014 Chevrolet Equinox"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Corvette-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Corvette",
+            "engine": "6.2L",
+            "displayName": "2014 Chevrolet Corvette"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.55,
+                "liters": 6.2
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "15W-50",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Captiva-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Captiva",
+            "engine": "2.4L",
+            "displayName": "2014 Chevrolet Captiva"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Silverado-2500HD.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Silverado-2500HD",
+            "engine": "6.0L",
+            "displayName": "2014 Chevrolet Silverado-2500HD"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Sonic-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Sonic",
+            "engine": "6.0L",
+            "displayName": "2014 Chevrolet Sonic"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Camaro-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Camaro",
+            "engine": "3.6L",
+            "displayName": "2014 Chevrolet Camaro"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "15W-50",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Silverado-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Silverado",
+            "engine": "6.2L",
+            "displayName": "2014 Chevrolet Silverado"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Trax-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Trax",
+            "engine": "6.0L",
+            "displayName": "2014 Chevrolet Trax"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Cobalt-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Cobalt",
+            "engine": "2.0L",
+            "displayName": "2010 Chevrolet Cobalt"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.33,
+                "liters": 2.2
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Traverse-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Traverse",
+            "engine": "3.8L",
+            "displayName": "2014 Chevrolet Traverse"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Camaro-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Camaro",
+            "engine": "3.6L",
+            "displayName": "2010 Chevrolet Camaro"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Colorado-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Colorado",
+            "engine": "2.9L",
+            "displayName": "2010 Chevrolet Colorado"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.07,
+                "liters": 2.9
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-Chevrolet-Express-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "Chevrolet",
+            "model": "Express",
+            "engine": "4.3L",
+            "displayName": "2014 Chevrolet Express"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Silverado-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Silverado",
+            "engine": "5.3L",
+            "displayName": "2010 Chevrolet Silverado"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-HHR-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "HHR",
+            "engine": "2.2L",
+            "displayName": "2010 Chevrolet HHR"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.33,
+                "liters": 2.2
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Aveo-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Aveo",
+            "engine": "6.3L",
+            "displayName": "2010 Chevrolet Aveo"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Corvette-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Corvette",
+            "engine": "6.2L",
+            "displayName": "2010 Chevrolet Corvette"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.55,
+                "liters": 6.2
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Impala-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Impala",
+            "engine": "3.5L",
+            "displayName": "2010 Chevrolet Impala"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.7,
+                "liters": 3.5
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Tahoe-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Tahoe",
+            "engine": "6.2L",
+            "displayName": "2010 Chevrolet Tahoe"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Malibu-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Malibu",
+            "engine": "2.4L",
+            "displayName": "2010 Chevrolet Malibu"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Traverse-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Traverse",
+            "engine": "5.2L",
+            "displayName": "2010 Chevrolet Traverse"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Colorado-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Colorado",
+            "engine": "2.8L",
+            "displayName": "2006 Chevrolet Colorado"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Express-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Express",
+            "engine": "4.3L",
+            "displayName": "2006 Chevrolet Express"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Uplander-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Uplander",
+            "engine": "3.5L",
+            "displayName": "2006 Chevrolet Uplander"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.02,
+                "liters": 3.8
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Tahoe-Suburban-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Tahoe-Suburban",
+            "engine": "5.3L",
+            "displayName": "2006 Chevrolet Tahoe-Suburban"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 8.56,
+                "liters": 8.1
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Impala-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Impala",
+            "engine": "5.3L",
+            "displayName": "2006 Chevrolet Impala"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.7,
+                "liters": 3.5
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Optra-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Optra",
+            "engine": "7.5L",
+            "displayName": "2006 Chevrolet Optra"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Silverado-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Silverado",
+            "engine": "6.6L",
+            "displayName": "2006 Chevrolet Silverado"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Equinox-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Equinox",
+            "engine": "3.8L",
+            "displayName": "2006 Chevrolet Equinox"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.59,
+                "liters": 3.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Cobalt-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Cobalt",
+            "engine": "2.2L",
+            "displayName": "2006 Chevrolet Cobalt"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.33,
+                "liters": 2.2
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Malibu-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Malibu",
+            "engine": "2.2L",
+            "displayName": "2006 Chevrolet Malibu"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.12,
+                "liters": 3.9
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Express-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Express",
+            "engine": "4.8L",
+            "displayName": "2010 Chevrolet Express"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Corvette-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Corvette",
+            "engine": "6.0L",
+            "displayName": "2006 Chevrolet Corvette"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.98,
+                "liters": 6.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-SSR-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "SSR",
+            "engine": "5.7L",
+            "displayName": "2006 Chevrolet SSR"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Trailblazer-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Trailblazer",
+            "engine": "6.0L",
+            "displayName": "2006 Chevrolet Trailblazer"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.34,
+                "liters": 6.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Epica-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Epica",
+            "engine": "6.4L",
+            "displayName": "2006 Chevrolet Epica"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chevrolet-Avalanche-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "Avalanche",
+            "engine": "5.3L",
+            "displayName": "2006 Chevrolet Avalanche"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 8.56,
+                "liters": 8.1
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-Chevrolet-Avalanche-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "Chevrolet",
+            "model": "Avalanche",
+            "engine": "5.3L",
+            "displayName": "2010 Chevrolet Avalanche"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2006-Chevrolet-HHR-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chevrolet",
+            "model": "HHR",
+            "engine": "2.2L",
+            "displayName": "2006 Chevrolet HHR"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.33,
+                "liters": 2.2
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Avalanche-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Avalanche",
+            "engine": "5.3L",
+            "displayName": "2005 Chevrolet Avalanche"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Impala-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Impala",
+            "engine": "7.0L",
+            "displayName": "2005 Chevrolet Impala"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Tahoe-Suburban-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Tahoe-Suburban",
+            "engine": "5.3L",
+            "displayName": "2005 Chevrolet Tahoe-Suburban"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 8.56,
+                "liters": 8.1
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-SSR-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "SSR",
+            "engine": "5.7L",
+            "displayName": "2005 Chevrolet SSR"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Equinox-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Equinox",
+            "engine": "4.3L",
+            "displayName": "2005 Chevrolet Equinox"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.59,
+                "liters": 3.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-TrailBlazer-EXT-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "TrailBlazer-EXT",
+            "engine": "1.7L",
+            "displayName": "2005 Chevrolet TrailBlazer-EXT"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2004-Chevrolet-Aveo-OM.pdf": {
+        "Vehicle": {
+            "year": 2004,
+            "make": "Chevrolet",
+            "model": "Aveo",
+            "engine": "7.0L",
+            "displayName": "2004 Chevrolet Aveo"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Monte-Carlo-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Monte-Carlo",
+            "engine": "7.0L",
+            "displayName": "2005 Chevrolet Monte-Carlo"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2004-Chevrolet-Avalanche-OM.pdf": {
+        "Vehicle": {
+            "year": 2004,
+            "make": "Chevrolet",
+            "model": "Avalanche",
+            "engine": "5.7L",
+            "displayName": "2004 Chevrolet Avalanche"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 8.56,
+                "liters": 8.1
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Sliverado-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Sliverado",
+            "engine": "6.6L",
+            "displayName": "2005 Chevrolet Sliverado"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Aveo-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Aveo",
+            "engine": "6.0L",
+            "displayName": "2005 Chevrolet Aveo"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Blazer-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Blazer",
+            "engine": "4.7L",
+            "displayName": "2005 Chevrolet Blazer"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Colorado-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Colorado",
+            "engine": "2.8L",
+            "displayName": "2005 Chevrolet Colorado"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Cobalt-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Cobalt",
+            "engine": "2.2L",
+            "displayName": "2005 Chevrolet Cobalt"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.33,
+                "liters": 2.2
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Astro-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Astro",
+            "engine": "1.2L",
+            "displayName": "2005 Chevrolet Astro"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Venture-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Venture",
+            "engine": "7.0L",
+            "displayName": "2005 Chevrolet Venture"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.02,
+                "liters": 3.8
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2004-Chevrolet-Corvette-OM.pdf": {
+        "Vehicle": {
+            "year": 2004,
+            "make": "Chevrolet",
+            "model": "Corvette",
+            "engine": "5.3L",
+            "displayName": "2004 Chevrolet Corvette"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chevrolet-Optra-OM.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chevrolet",
+            "model": "Optra",
+            "engine": "7.5L",
+            "displayName": "2005 Chevrolet Optra"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2004-Chevrolet-Cavalier-OM.pdf": {
+        "Vehicle": {
+            "year": 2004,
+            "make": "Chevrolet",
+            "model": "Cavalier",
+            "engine": "5.7L",
+            "displayName": "2004 Chevrolet Cavalier"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2002-Chevrolet-Avalanche.pdf": {
+        "Vehicle": {
+            "year": 2002,
+            "make": "Chevrolet",
+            "model": "Avalanche",
+            "engine": "5.7L",
+            "displayName": "2002 Chevrolet Avalanche"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2004-Chevrolet-Malibu-OM.pdf": {
+        "Vehicle": {
+            "year": 2004,
+            "make": "Chevrolet",
+            "model": "Malibu",
+            "engine": "3.5L",
+            "displayName": "2004 Chevrolet Malibu"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.33,
+                "liters": 2.2
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2002-Chevrolet-Express.pdf": {
+        "Vehicle": {
+            "year": 2002,
+            "make": "Chevrolet",
+            "model": "Express",
+            "engine": "4.3L",
+            "displayName": "2002 Chevrolet Express"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2004-Chevrolet-Monte-Carlo-OM.pdf": {
+        "Vehicle": {
+            "year": 2004,
+            "make": "Chevrolet",
+            "model": "Monte-Carlo",
+            "engine": "7.0L",
+            "displayName": "2004 Chevrolet Monte-Carlo"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2004-Chevrolet-Impala-OM.pdf": {
+        "Vehicle": {
+            "year": 2004,
+            "make": "Chevrolet",
+            "model": "Impala",
+            "engine": "7.0L",
+            "displayName": "2004 Chevrolet Impala"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Chrysler-Pacifica-Hybrid-UG.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Chrysler",
+            "model": "Pacifica-Hybrid-UG",
+            "engine": "5.8L",
+            "displayName": "2017 Chrysler Pacifica-Hybrid-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Chrysler-300-UG.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Chrysler",
+            "model": "300-UG",
+            "engine": "3.6L",
+            "displayName": "2017 Chrysler 300-UG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Chrysler-Pacifica-UG.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Chrysler",
+            "model": "Pacifica-UG",
+            "engine": "3.6L",
+            "displayName": "2017 Chrysler Pacifica-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Chrysler-Pacifica-Hybrid-OM.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Chrysler",
+            "model": "Pacifica-Hybrid",
+            "engine": "3.6L",
+            "displayName": "2017 Chrysler Pacifica-Hybrid"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.97,
+                "liters": 4.7
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Chrysler-Pacifica-OM.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Chrysler",
+            "model": "Pacifica",
+            "engine": "3.6L",
+            "displayName": "2017 Chrysler Pacifica"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2013-Chrysler-300-UG.pdf": {
+        "Vehicle": {
+            "year": 2013,
+            "make": "Chrysler",
+            "model": "300-UG",
+            "engine": "3.6L",
+            "displayName": "2013 Chrysler 300-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.77,
+                "liters": 6.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-40",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Chrysler-200-OM.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Chrysler",
+            "model": "200",
+            "engine": "7.5L",
+            "displayName": "2017 Chrysler 200"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Chrysler-200-UG.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Chrysler",
+            "model": "200-UG",
+            "engine": "2.4L",
+            "displayName": "2017 Chrysler 200-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Chrysler-Pacifica-Hybrid-Emergency-Response-Guide.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Chrysler",
+            "model": "Pacifica-Hybrid-Emergency-Response-Guide",
+            "engine": null,
+            "displayName": "2017 Chrysler Pacifica-Hybrid-Emergency-Response-Guide"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": []
+    },
+    "2015-Chrysler-Town-Country-OM.pdf": {
+        "Vehicle": {
+            "year": 2015,
+            "make": "Chrysler",
+            "model": "Town-Country",
+            "engine": "7.8L",
+            "displayName": "2015 Chrysler Town-Country"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2013-Chrysler-300-OM.pdf": {
+        "Vehicle": {
+            "year": 2013,
+            "make": "Chrysler",
+            "model": "300",
+            "engine": "5.7L",
+            "displayName": "2013 Chrysler 300"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2013-Chrysler-300-SRT8-OM.pdf": {
+        "Vehicle": {
+            "year": 2013,
+            "make": "Chrysler",
+            "model": "300-SRT8",
+            "engine": "5.7L",
+            "displayName": "2013 Chrysler 300-SRT8"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-40",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2013-Chrysler-Town-Country-UG.pdf": {
+        "Vehicle": {
+            "year": 2013,
+            "make": "Chrysler",
+            "model": "Town-Country-UG",
+            "engine": "3.6L",
+            "displayName": "2013 Chrysler Town-Country-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2015-Chrysler-200-UG.pdf": {
+        "Vehicle": {
+            "year": 2015,
+            "make": "Chrysler",
+            "model": "200-UG",
+            "engine": "2.4L",
+            "displayName": "2015 Chrysler 200-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2015-Chrysler-Town-Country-UG.pdf": {
+        "Vehicle": {
+            "year": 2015,
+            "make": "Chrysler",
+            "model": "Town-Country-UG",
+            "engine": "3.6L",
+            "displayName": "2015 Chrysler Town-Country-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2015-Chysler-300-OM.pdf": {
+        "Vehicle": {
+            "year": 2015,
+            "make": "Chysler",
+            "model": "300",
+            "engine": "5.7L",
+            "displayName": "2015 Chysler 300"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2015-Chysler-300-UG.pdf": {
+        "Vehicle": {
+            "year": 2015,
+            "make": "Chysler",
+            "model": "300-UG",
+            "engine": "3.6L",
+            "displayName": "2015 Chysler 300-UG"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2012-Chrysler-Town-Country-OM.pdf": {
+        "Vehicle": {
+            "year": 2012,
+            "make": "Chrysler",
+            "model": "Town-Country",
+            "engine": "7.8L",
+            "displayName": "2012 Chrysler Town-Country"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2011-Chrysler-200-OM.pdf": {
+        "Vehicle": {
+            "year": 2011,
+            "make": "Chrysler",
+            "model": "200",
+            "engine": "3.6L",
+            "displayName": "2011 Chrysler 200"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2012-Chrysler-Town-Country-UG.pdf": {
+        "Vehicle": {
+            "year": 2012,
+            "make": "Chrysler",
+            "model": "Town-Country-UG",
+            "engine": "3.6L",
+            "displayName": "2012 Chrysler Town-Country-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2012-Chrysler-300-SRT8-OM.pdf": {
+        "Vehicle": {
+            "year": 2012,
+            "make": "Chrysler",
+            "model": "300-SRT8",
+            "engine": "6.4L",
+            "displayName": "2012 Chrysler 300-SRT8"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-40",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2013-Chrysler-200-Convertibe-UG.pdf": {
+        "Vehicle": {
+            "year": 2013,
+            "make": "Chrysler",
+            "model": "200-Convertibe-UG",
+            "engine": "2.4L",
+            "displayName": "2013 Chrysler 200-Convertibe-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2012-Chrysler-200-Sedan-UG-V2.pdf": {
+        "Vehicle": {
+            "year": 2012,
+            "make": "Chrysler",
+            "model": "200-Sedan-UG-V2",
+            "engine": "2.4L",
+            "displayName": "2012 Chrysler 200-Sedan-UG-V2"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2013-Chrysler-200-OM.pdf": {
+        "Vehicle": {
+            "year": 2013,
+            "make": "Chrysler",
+            "model": "200",
+            "engine": "3.6L",
+            "displayName": "2013 Chrysler 200"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2008-Chrysler-Crossfire.pdf": {
+        "Vehicle": {
+            "year": 2008,
+            "make": "Chrysler",
+            "model": "Crossfire",
+            "engine": "1.0L",
+            "displayName": "2008 Chrysler Crossfire"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-40",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2012-Chrysler-200-Sedan-UG-V1.pdf": {
+        "Vehicle": {
+            "year": 2012,
+            "make": "Chrysler",
+            "model": "200-Sedan-UG-V1",
+            "engine": "2.4L",
+            "displayName": "2012 Chrysler 200-Sedan-UG-V1"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2012-Chrysler-200-Sedan-OM.pdf": {
+        "Vehicle": {
+            "year": 2012,
+            "make": "Chrysler",
+            "model": "200-Sedan",
+            "engine": "3.6L",
+            "displayName": "2012 Chrysler 200-Sedan"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2012-Chrysler-200-Convertible-UG.pdf": {
+        "Vehicle": {
+            "year": 2012,
+            "make": "Chrysler",
+            "model": "200-Convertible-UG",
+            "engine": "2.4L",
+            "displayName": "2012 Chrysler 200-Convertible-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2012-Chrysler-300-OM.pdf": {
+        "Vehicle": {
+            "year": 2012,
+            "make": "Chrysler",
+            "model": "300",
+            "engine": "3.6L",
+            "displayName": "2012 Chrysler 300"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2013-Chrysler-200-Sedan-UG.pdf": {
+        "Vehicle": {
+            "year": 2013,
+            "make": "Chrysler",
+            "model": "200-Sedan-UG",
+            "engine": "2.4L",
+            "displayName": "2013 Chrysler 200-Sedan-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.81,
+                "liters": 3.6
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2009-Chrysler-300-SRT8-OM.pdf": {
+        "Vehicle": {
+            "year": 2009,
+            "make": "Chrysler",
+            "model": "300-SRT8",
+            "engine": "6.1L",
+            "displayName": "2009 Chrysler 300-SRT8"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-40",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-40",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2009-Chrysler-Aspen.pdf": {
+        "Vehicle": {
+            "year": 2009,
+            "make": "Chrysler",
+            "model": "Aspen",
+            "engine": "5.7L",
+            "displayName": "2009 Chrysler Aspen"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.03,
+                "liters": 5.7
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2008-Chrysler-Town-Country.pdf": {
+        "Vehicle": {
+            "year": 2008,
+            "make": "Chrysler",
+            "model": "Town-Country",
+            "engine": "7.8L",
+            "displayName": "2008 Chrysler Town-Country"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.49,
+                "liters": 3.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2009-Chrysler-300.pdf": {
+        "Vehicle": {
+            "year": 2009,
+            "make": "Chrysler",
+            "model": "300",
+            "engine": "2.7L",
+            "displayName": "2009 Chrysler 300"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.85,
+                "liters": 2.7
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2011-Chrysler-200-Convertible-OM.pdf": {
+        "Vehicle": {
+            "year": 2011,
+            "make": "Chrysler",
+            "model": "200-Convertible",
+            "engine": "3.6L",
+            "displayName": "2011 Chrysler 200-Convertible"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2009-Chrysler-PT-Cruiser.pdf": {
+        "Vehicle": {
+            "year": 2009,
+            "make": "Chrysler",
+            "model": "PT-Cruiser",
+            "engine": "7.8L",
+            "displayName": "2009 Chrysler PT-Cruiser"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2012-Chrysler-300-UG-V2.pdf": {
+        "Vehicle": {
+            "year": 2012,
+            "make": "Chrysler",
+            "model": "300-UG-V2",
+            "engine": "3.6L",
+            "displayName": "2012 Chrysler 300-UG-V2"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.77,
+                "liters": 6.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-40",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2008-Chrysler-Sebring.pdf": {
+        "Vehicle": {
+            "year": 2008,
+            "make": "Chrysler",
+            "model": "Sebring",
+            "engine": "7.6L",
+            "displayName": "2008 Chrysler Sebring"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2009-Chrysler-Town-Country.pdf": {
+        "Vehicle": {
+            "year": 2009,
+            "make": "Chrysler",
+            "model": "Town-Country",
+            "engine": "7.8L",
+            "displayName": "2009 Chrysler Town-Country"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.49,
+                "liters": 3.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2008-Chrysler-300-SRT8-OM.pdf": {
+        "Vehicle": {
+            "year": 2008,
+            "make": "Chrysler",
+            "model": "300-SRT8",
+            "engine": "6.1L",
+            "displayName": "2008 Chrysler 300-SRT8"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.45,
+                "liters": 6.1
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-40",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-40",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2008-Chrysler-Pacifica.pdf": {
+        "Vehicle": {
+            "year": 2008,
+            "make": "Chrysler",
+            "model": "Pacifica",
+            "engine": "3.8L",
+            "displayName": "2008 Chrysler Pacifica"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.02,
+                "liters": 3.8
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2008-Chrysler-Aspen.pdf": {
+        "Vehicle": {
+            "year": 2008,
+            "make": "Chrysler",
+            "model": "Aspen",
+            "engine": "5.7L",
+            "displayName": "2008 Chrysler Aspen"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.03,
+                "liters": 5.7
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chrysler-Town-Country.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chrysler",
+            "model": "Town-Country",
+            "engine": "3.3L",
+            "displayName": "2006 Chrysler Town-Country"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.02,
+                "liters": 3.8
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2008-Chrysler-PT-Cruiser.pdf": {
+        "Vehicle": {
+            "year": 2008,
+            "make": "Chrysler",
+            "model": "PT-Cruiser",
+            "engine": "2.4L",
+            "displayName": "2008 Chrysler PT-Cruiser"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2008-Chrysler-Sebring-Convertible-OM.pdf": {
+        "Vehicle": {
+            "year": 2008,
+            "make": "Chrysler",
+            "model": "Sebring-Convertible",
+            "engine": "2.4L",
+            "displayName": "2008 Chrysler Sebring-Convertible"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2007-Chrysler-Crossfire.pdf": {
+        "Vehicle": {
+            "year": 2007,
+            "make": "Chrysler",
+            "model": "Crossfire",
+            "engine": "1.0L",
+            "displayName": "2007 Chrysler Crossfire"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-40",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2007-Chrysler-Aspen.pdf": {
+        "Vehicle": {
+            "year": 2007,
+            "make": "Chrysler",
+            "model": "Aspen",
+            "engine": "4.7L",
+            "displayName": "2007 Chrysler Aspen"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.0,
+                "liters": 5.68
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2007-Chrysler-Pacifica.pdf": {
+        "Vehicle": {
+            "year": 2007,
+            "make": "Chrysler",
+            "model": "Pacifica",
+            "engine": "3.5L",
+            "displayName": "2007 Chrysler Pacifica"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.23,
+                "liters": 4.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2008-Chrysler-300.pdf": {
+        "Vehicle": {
+            "year": 2008,
+            "make": "Chrysler",
+            "model": "300",
+            "engine": "5.7L",
+            "displayName": "2008 Chrysler 300"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.0,
+                "liters": 5.68
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2007-Chrysler-300.pdf": {
+        "Vehicle": {
+            "year": 2007,
+            "make": "Chrysler",
+            "model": "300",
+            "engine": "5.7L",
+            "displayName": "2007 Chrysler 300"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.0,
+                "liters": 5.68
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2007-Chrysler-Town-Country.pdf": {
+        "Vehicle": {
+            "year": 2007,
+            "make": "Chrysler",
+            "model": "Town-Country",
+            "engine": "3.3L",
+            "displayName": "2007 Chrysler Town-Country"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.02,
+                "liters": 3.8
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2007-Chrysler-PT-Cruiser-Convertible-OM.pdf": {
+        "Vehicle": {
+            "year": 2007,
+            "make": "Chrysler",
+            "model": "PT-Cruiser-Convertible",
+            "engine": "2.4L",
+            "displayName": "2007 Chrysler PT-Cruiser-Convertible"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chrysler-Pacifica.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chrysler",
+            "model": "Pacifica",
+            "engine": "3.5L",
+            "displayName": "2006 Chrysler Pacifica"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.7,
+                "liters": 3.5
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2007-Chrysler-PT-Cruiser.pdf": {
+        "Vehicle": {
+            "year": 2007,
+            "make": "Chrysler",
+            "model": "PT-Cruiser",
+            "engine": "2.4L",
+            "displayName": "2007 Chrysler PT-Cruiser"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chrysler-Sebring-Convertible-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chrysler",
+            "model": "Sebring-Convertible",
+            "engine": "2.7L",
+            "displayName": "2006 Chrysler Sebring-Convertible"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 5.0,
+                "liters": 4.73
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2005-Chrysler-Sebring.pdf": {
+        "Vehicle": {
+            "year": 2005,
+            "make": "Chrysler",
+            "model": "Sebring",
+            "engine": "2.4L",
+            "displayName": "2005 Chrysler Sebring"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 5.0,
+                "liters": 4.73
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chrysler-PT-Cruiser.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chrysler",
+            "model": "PT-Cruiser",
+            "engine": "2.4L",
+            "displayName": "2006 Chrysler PT-Cruiser"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chrysler-300.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chrysler",
+            "model": "300",
+            "engine": "3.8L",
+            "displayName": "2006 Chrysler 300"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.0,
+                "liters": 5.68
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "10W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-Chrysler-Crossfire.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "Chrysler",
+            "model": "Crossfire",
+            "engine": "1.0L",
+            "displayName": "2006 Chrysler Crossfire"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.11,
+                "liters": 2.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-40",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2022-Hyundai-Tucson-OM.pdf": {
+        "Vehicle": {
+            "year": 2022,
+            "make": "Hyundai",
+            "model": "Tucson",
+            "engine": null,
+            "displayName": "2022 Hyundai Tucson"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-GMC-Sierra-Denali-3500HD.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "GMC",
+            "model": "Sierra-Denali-3500HD",
+            "engine": "6.0L",
+            "displayName": "2014 GMC Sierra-Denali-3500HD"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-GMC-Sierra-Denali-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "GMC",
+            "model": "Sierra-Denali",
+            "engine": "6.2L",
+            "displayName": "2014 GMC Sierra-Denali"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 6.34,
+                "liters": 6.0
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-GMC-Acadia-Denali-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "GMC",
+            "model": "Acadia-Denali",
+            "engine": "3.8L",
+            "displayName": "2014 GMC Acadia-Denali"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-GMC-Savana-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "GMC",
+            "model": "Savana",
+            "engine": "4.3L",
+            "displayName": "2014 GMC Savana"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-GMC-Sierra-Denali-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "GMC",
+            "model": "Sierra-Denali",
+            "engine": "6.2L",
+            "displayName": "2010 GMC Sierra-Denali"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-GMC-Sierra-2500-3500-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "GMC",
+            "model": "Sierra-2500-3500",
+            "engine": "6.0L",
+            "displayName": "2014 GMC Sierra-2500-3500"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-GMC-Terrain-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "GMC",
+            "model": "Terrain",
+            "engine": "2.4L",
+            "displayName": "2014 GMC Terrain"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-GMC-Canyon-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "GMC",
+            "model": "Canyon",
+            "engine": "2.9L",
+            "displayName": "2010 GMC Canyon"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 3.07,
+                "liters": 2.9
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-GMC-Sierra-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "GMC",
+            "model": "Sierra",
+            "engine": "6.2L",
+            "displayName": "2014 GMC Sierra"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2014-GMC-Yukon-Yukon-XL-OM.pdf": {
+        "Vehicle": {
+            "year": 2014,
+            "make": "GMC",
+            "model": "Yukon-Yukon-XL",
+            "engine": "6.0L",
+            "displayName": "2014 GMC Yukon-Yukon-XL"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-GMC-Yukon-XL-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "GMC",
+            "model": "Yukon-XL",
+            "engine": "5.3L",
+            "displayName": "2010 GMC Yukon-XL"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2010-GMC-Terrain-OM.pdf": {
+        "Vehicle": {
+            "year": 2010,
+            "make": "GMC",
+            "model": "Terrain",
+            "engine": "2.4L",
+            "displayName": "2010 GMC Terrain"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-GMC-Yukon-Yukon-XL-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "GMC",
+            "model": "Yukon-Yukon-XL",
+            "engine": "5.3L",
+            "displayName": "2006 GMC Yukon-Yukon-XL"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 8.56,
+                "liters": 8.1
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-GMC-Yukon-Yukon-XL-Denali-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "GMC",
+            "model": "Yukon-Yukon-XL-Denali",
+            "engine": "6.0L",
+            "displayName": "2006 GMC Yukon-Yukon-XL-Denali"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-GMC-Envoy-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "GMC",
+            "model": "Envoy",
+            "engine": "4.2L",
+            "displayName": "2006 GMC Envoy"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-GMC-Canyon-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "GMC",
+            "model": "Canyon",
+            "engine": "2.8L",
+            "displayName": "2006 GMC Canyon"
+        },
+        "oil_capacity": {
+            "with_filter": null,
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2006-GMC-Sierra-OM.pdf": {
+        "Vehicle": {
+            "year": 2006,
+            "make": "GMC",
+            "model": "Sierra",
+            "engine": "6.6L",
+            "displayName": "2006 GMC Sierra"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 4.55,
+                "liters": 4.3
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-30",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-30",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Jeep-Renegade-UG.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Jeep",
+            "model": "Renegade-UG",
+            "engine": "1.4L",
+            "displayName": "2017 Jeep Renegade-UG"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "5W-40",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    },
+    "2017-Jeep-Renegade-OM.pdf": {
+        "Vehicle": {
+            "year": 2017,
+            "make": "Jeep",
+            "model": "Renegade",
+            "engine": "1.4L",
+            "displayName": "2017 Jeep Renegade"
+        },
+        "oil_capacity": {
+            "with_filter": {
+                "quarts": 2.54,
+                "liters": 2.4
+            },
+            "without_filter": null
+        },
+        "oil_recommendations": [
+            {
+                "oil_type": "0W-20",
+                "recommendation_level": "secondary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            },
+            {
+                "oil_type": "5W-40",
+                "recommendation_level": "primary",
+                "temperature_condition": [
+                    "normal"
+                ]
+            }
+        ]
+    }
+}
